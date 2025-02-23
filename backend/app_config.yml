@@ -1,0 +1,5 @@
+base_path: c:\hackathon_project\backend
+database_path: c:\hackathon_project\backend\archive
+embed_model: sentence-transformers/all-mpnet-base-v2
+ip_config: 0.0.0.0
+port_config: 8000
